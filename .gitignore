@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+model.tir
+magicformula.tir
+tir_test.csv
 # C extensions
 *.so
 
