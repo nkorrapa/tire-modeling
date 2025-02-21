@@ -5,6 +5,7 @@ __pycache__/
 model.tir
 magicformula.tir
 tir_test.csv
+.tire-modeling/
 # C extensions
 *.so
 
